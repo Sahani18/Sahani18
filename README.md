@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sahani18
+- 👋 Hi, I’m Subhanshu Sahani.
 - 👀 I’m interested in Riding bike and cooking and a little on coding ;p
 - 🌱 I’m currently learning Flutter under the guidance of my Uncle who is a Team Lead.
-- 📫 How to reach me? Just drop a mail and we'll catch up to have biryani together.
+- 📫 How to reach me? Just drop a mail ( sahani.subhanshu1995@gmail.com ) and we'll catch up to have biryani together.
 
 <!---
 Sahani18/Sahani18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
