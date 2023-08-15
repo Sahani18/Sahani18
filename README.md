@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahani18" alt="sahani18" /></a> </p>
 
-- 🔭 I’m currently working on **iGET IT (ed-Tech product)**
+- 🔭 I’m currently working on **iGET IT an Ed-Tech Learning Product of Tata Technologies Ltd.**
 
 - 🌱 I’m currently learning **Next JS**
 
