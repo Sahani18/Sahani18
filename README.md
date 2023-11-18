@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sahani.subhanshu1995@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rBnVx9SQQrprk4eefovcLdlpix8CbF-0/view](https://drive.google.com/file/d/1rBnVx9SQQrprk4eefovcLdlpix8CbF-0/view)
+- 📄 Know about my experiences https://drive.google.com/file/d/1QUsH8WN6Ij1EywlL0OXiSbbYVO80HsOO/view?usp=drive_link
 
 - ⚡ Fun fact **I love cooking and riding bike**
 
